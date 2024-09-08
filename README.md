@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Nishant 👋
+
+I find engineers to be very powerful, because they have the ability to ✨ _create_ ✨<br><br>
+- Tech Stack: **MERN**, **Google Search**, **StackExchange**.<br>Learning the first, proficient in the latter two.<br><br>
+- I find competitive programming to be fun.<br><br>
 
 <!--
 **iamfreeezing/iamfreeezing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
